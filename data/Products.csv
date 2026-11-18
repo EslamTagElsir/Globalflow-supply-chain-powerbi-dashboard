@@ -1,0 +1,81 @@
+ProductID,ProductName,Category,SubCategory,WeightKg,StorageType,LeadTimeDays
+PRD-001,Steel Unit 1,Raw Materials,Steel,13.0,Ambient,11
+PRD-002,Heavy Equipment Unit 2,Machinery,Heavy Equipment,70.2,Ambient,6
+PRD-003,Polymer Resin Unit 3,Raw Materials,Polymer Resin,446.1,Ambient,5
+PRD-004,Frozen Unit 4,Food,Frozen,16.4,Cold Chain,5
+PRD-005,Heavy Equipment Unit 5,Machinery,Heavy Equipment,252.9,Ambient,3
+PRD-006,Dry Goods Unit 6,Food,Dry Goods,358.2,Cold Chain,20
+PRD-007,Adhesives Unit 7,Chemicals,Adhesives,224.9,Hazmat,11
+PRD-008,Sensors Unit 8,Electronics,Sensors,349.2,Ambient,13
+PRD-009,Woven Fabric Unit 9,Textile,Woven Fabric,108.0,Ambient,13
+PRD-010,Sensors Unit 10,Electronics,Sensors,190.3,Ambient,14
+PRD-011,Packaging Cloth Unit 11,Textile,Packaging Cloth,132.6,Ambient,4
+PRD-012,Timber Unit 12,Raw Materials,Timber,268.3,Ambient,15
+PRD-013,Power Units Unit 13,Electronics,Power Units,146.9,Ambient,14
+PRD-014,Dry Goods Unit 14,Food,Dry Goods,352.4,Cold Chain,4
+PRD-015,Steel Unit 15,Raw Materials,Steel,386.6,Ambient,5
+PRD-016,Heavy Equipment Unit 16,Machinery,Heavy Equipment,190.4,Ambient,17
+PRD-017,Timber Unit 17,Raw Materials,Timber,81.7,Ambient,14
+PRD-018,Hydraulics Unit 18,Machinery,Hydraulics,133.9,Ambient,5
+PRD-019,Beverages Unit 19,Food,Beverages,86.0,Cold Chain,10
+PRD-020,Conveyor Parts Unit 20,Machinery,Conveyor Parts,190.0,Ambient,20
+PRD-021,Hydraulics Unit 21,Machinery,Hydraulics,162.5,Ambient,4
+PRD-022,Heavy Equipment Unit 22,Machinery,Heavy Equipment,402.6,Ambient,15
+PRD-023,Woven Fabric Unit 23,Textile,Woven Fabric,105.9,Ambient,21
+PRD-024,Timber Unit 24,Raw Materials,Timber,106.7,Ambient,18
+PRD-025,Lubricants Unit 25,Chemicals,Lubricants,229.7,Hazmat,11
+PRD-026,Heavy Equipment Unit 26,Machinery,Heavy Equipment,372.6,Ambient,20
+PRD-027,Packaging Cloth Unit 27,Textile,Packaging Cloth,292.5,Ambient,21
+PRD-028,Solvents Unit 28,Chemicals,Solvents,110.1,Hazmat,7
+PRD-029,Frozen Unit 29,Food,Frozen,45.9,Cold Chain,4
+PRD-030,Sensors Unit 30,Electronics,Sensors,313.9,Ambient,16
+PRD-031,Dry Goods Unit 31,Food,Dry Goods,192.7,Cold Chain,17
+PRD-032,Frozen Unit 32,Food,Frozen,485.6,Cold Chain,3
+PRD-033,Polymer Resin Unit 33,Raw Materials,Polymer Resin,57.7,Ambient,20
+PRD-034,Packaging Cloth Unit 34,Textile,Packaging Cloth,170.4,Ambient,12
+PRD-035,Adhesives Unit 35,Chemicals,Adhesives,227.1,Hazmat,11
+PRD-036,Dry Goods Unit 36,Food,Dry Goods,254.1,Cold Chain,6
+PRD-037,Timber Unit 37,Raw Materials,Timber,420.9,Ambient,19
+PRD-038,Dry Goods Unit 38,Food,Dry Goods,76.8,Cold Chain,8
+PRD-039,Beverages Unit 39,Food,Beverages,459.3,Cold Chain,13
+PRD-040,Adhesives Unit 40,Chemicals,Adhesives,56.4,Hazmat,14
+PRD-041,Woven Fabric Unit 41,Textile,Woven Fabric,29.4,Ambient,21
+PRD-042,Sensors Unit 42,Electronics,Sensors,366.1,Ambient,5
+PRD-043,Dry Goods Unit 43,Food,Dry Goods,64.6,Cold Chain,18
+PRD-044,Dry Goods Unit 44,Food,Dry Goods,132.9,Cold Chain,16
+PRD-045,Hydraulics Unit 45,Machinery,Hydraulics,377.8,Ambient,9
+PRD-046,Timber Unit 46,Raw Materials,Timber,199.8,Ambient,14
+PRD-047,Lubricants Unit 47,Chemicals,Lubricants,226.0,Hazmat,10
+PRD-048,Heavy Equipment Unit 48,Machinery,Heavy Equipment,169.4,Ambient,21
+PRD-049,Dry Goods Unit 49,Food,Dry Goods,294.4,Cold Chain,3
+PRD-050,Power Units Unit 50,Electronics,Power Units,315.7,Ambient,10
+PRD-051,Sensors Unit 51,Electronics,Sensors,429.9,Ambient,5
+PRD-052,Dry Goods Unit 52,Food,Dry Goods,139.6,Cold Chain,18
+PRD-053,Hydraulics Unit 53,Machinery,Hydraulics,66.6,Ambient,21
+PRD-054,Frozen Unit 54,Food,Frozen,121.9,Cold Chain,18
+PRD-055,Adhesives Unit 55,Chemicals,Adhesives,47.6,Hazmat,16
+PRD-056,Synthetic Fiber Unit 56,Textile,Synthetic Fiber,205.8,Ambient,4
+PRD-057,Polymer Resin Unit 57,Raw Materials,Polymer Resin,492.1,Ambient,6
+PRD-058,Control Systems Unit 58,Electronics,Control Systems,364.2,Ambient,6
+PRD-059,Heavy Equipment Unit 59,Machinery,Heavy Equipment,95.5,Ambient,17
+PRD-060,Conveyor Parts Unit 60,Machinery,Conveyor Parts,92.2,Ambient,17
+PRD-061,Heavy Equipment Unit 61,Machinery,Heavy Equipment,221.8,Ambient,20
+PRD-062,Sensors Unit 62,Electronics,Sensors,326.2,Ambient,20
+PRD-063,Sensors Unit 63,Electronics,Sensors,463.2,Ambient,10
+PRD-064,Conveyor Parts Unit 64,Machinery,Conveyor Parts,243.1,Ambient,9
+PRD-065,Adhesives Unit 65,Chemicals,Adhesives,82.7,Hazmat,3
+PRD-066,Solvents Unit 66,Chemicals,Solvents,463.3,Hazmat,17
+PRD-067,Synthetic Fiber Unit 67,Textile,Synthetic Fiber,348.4,Ambient,20
+PRD-068,Polymer Resin Unit 68,Raw Materials,Polymer Resin,243.6,Ambient,9
+PRD-069,Woven Fabric Unit 69,Textile,Woven Fabric,484.4,Ambient,21
+PRD-070,Polymer Resin Unit 70,Raw Materials,Polymer Resin,30.9,Ambient,13
+PRD-071,Sensors Unit 71,Electronics,Sensors,292.3,Ambient,19
+PRD-072,Dry Goods Unit 72,Food,Dry Goods,28.9,Cold Chain,19
+PRD-073,Sensors Unit 73,Electronics,Sensors,34.7,Ambient,5
+PRD-074,Steel Unit 74,Raw Materials,Steel,202.2,Ambient,21
+PRD-075,Hydraulics Unit 75,Machinery,Hydraulics,297.5,Ambient,5
+PRD-076,Lubricants Unit 76,Chemicals,Lubricants,292.0,Hazmat,19
+PRD-077,Synthetic Fiber Unit 77,Textile,Synthetic Fiber,102.5,Ambient,13
+PRD-078,Conveyor Parts Unit 78,Machinery,Conveyor Parts,198.2,Ambient,12
+PRD-079,Solvents Unit 79,Chemicals,Solvents,464.5,Hazmat,5
+PRD-080,Control Systems Unit 80,Electronics,Control Systems,310.8,Ambient,21

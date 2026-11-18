@@ -1,0 +1,51 @@
+SupplierID,SupplierName,Country,SupplierTier,ContractStartDate,QualityScore,OnTimeRate,Region
+SUP-001,AlphaCargo Ltd,India,Gold,2018-06-28,6.3,0.73,East
+SUP-002,BetaFreight Co,France,Gold,2017-11-20,7.3,0.99,East
+SUP-003,GlobalShip Inc,Egypt,Bronze,2019-12-20,7.1,0.82,East
+SUP-004,PrimeTrans LLC,Germany,Gold,2017-08-25,5.8,0.99,South
+SUP-005,NovaDist Corp,USA,Silver,2018-12-04,4.8,0.67,East
+SUP-006,SwiftLogix,Egypt,Bronze,2021-09-29,7.7,0.61,North
+SUP-007,omegasupply,India,Silver,2018-11-15,3.8,0.91,East
+SUP-008,PeakRoute Inc,Egypt,Gold,2019-05-26,8.5,0.99,North
+SUP-009,SkyBridge Co,Egypt,Gold,2017-11-02,9.4,0.99,East
+SUP-010,IronLink Ltd,China,Bronze,2017-03-27,4.7,0.64,East
+SUP-011,TradeAxis Corp,Germany,Gold,2018-05-27,6.3,0.99,East
+SUP-012,NexusTrans,India,Bronze,2020-06-25,4.6,0.78,South
+SUP-013,BlueLine Supply,Egypt,Gold,2019-04-25,10,0.99,South
+SUP-014,RedRoute Inc,USA,Silver,2020-10-03,6.1,0.89,East
+SUP-015,GreenShip Co,Egypt,Gold,2021-11-22,5.7,0.99,West
+SUP-016,CedarTrans,China,Gold,2018-12-18,10,0.79,South
+SUP-017,HorizonFreight,China,Gold,2018-11-04,6.2,0.71,North
+SUP-018,polardist llc,Brazil,Silver,2020-10-23,6.7,0.7,North
+SUP-019,MegaLink Corp,China,Gold,2020-04-04,6.6,0.99,North
+SUP-020,FastFlow Inc,Brazil,Gold,2021-05-30,7.2,0.96,West
+SUP-021,ClearPath Supply,USA,Bronze,2020-03-26,2.7,0.82,East
+SUP-022,UrbanCargo Co,USA,Gold,2021-07-10,5.0,0.99,East
+SUP-023,MetroFreight,Brazil,Silver,2018-11-08,7.7,0.58,North
+SUP-024,CoastalTrans,UAE,Silver,2018-10-31,7.7,0.77,East
+SUP-025,MidlandRoute,India,Bronze,2019-02-16,4.6,0.5,East
+SUP-026,ArcticShip Ltd,USA,Silver,2018-08-11,3.5,0.79,West
+SUP-027,EliteSupply Co,France,Bronze,2019-06-24,4.0,0.66,South
+SUP-028,PrimeLink Inc,India,Bronze,2021-06-19,7.7,0.6,North
+SUP-029,StarDist Corp,Germany,Silver,2018-11-18,7.5,0.77,South
+SUP-030,RapidTrans LLC,Egypt,Silver,2017-02-20,4.8,0.65,South
+SUP-031,CrossBorder Co,UAE,Silver,2019-07-22,8.3,0.81,South
+SUP-032,EagleTrans Ltd,Egypt,Silver,2020-09-05,5.0,0.76,North
+SUP-033,TitanFreight,France,Silver,2020-11-26,8.6,0.64,North
+SUP-034,northroute inc,India,Bronze,2019-07-24,7.3,0.51,West
+SUP-035,SouthLink Corp,France,Bronze,2021-03-27,5.8,0.82,West
+SUP-036,EastFlow Ltd,France,Bronze,2021-10-31,3.0,0.59,West
+SUP-037,WestCargo Co,France,Silver,2018-07-22,8.8,0.87,South
+SUP-038,UnifiedSupply,China,Silver,2018-04-26,8.0,0.74,East
+SUP-039,ExpressDist Inc,USA,Silver,2017-11-05,4.0,0.93,West
+SUP-040,ConnectTrans,Brazil,Gold,2019-04-15,5.4,0.99,West
+SUP-041,AllianceFreight,Egypt,Silver,2019-03-09,8.7,0.58,West
+SUP-042,VanguardTrans,UAE,Silver,2021-03-24,5.7,0.55,West
+SUP-043,ZenithRoute,USA,Bronze,2020-05-20,5.4,0.72,West
+SUP-044,ApexSupply Co,Brazil,Gold,2019-03-08,8.1,0.82,West
+SUP-045,DeltaLink Ltd,Egypt,Gold,2020-06-28,10,0.99,West
+SUP-046,OmniFreight Inc,UAE,Bronze,2020-08-09,2.2,0.64,South
+SUP-047,GlobeCargo,USA,Silver,2018-11-02,5.1,0.63,West
+SUP-048,SpeedRoute Corp,UAE,Silver,2018-07-24,9.0,0.7,East
+SUP-049,CoreTrans Ltd,Brazil,Gold,2017-04-17,9.7,0.9,South
+SUP-050,FlowLink Inc,Egypt,Gold,2021-03-25,9.1,0.99,South
