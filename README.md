@@ -1,8 +1,35 @@
-# GlobalFlow Logistics: Supply Chain Analytics Dashboard
+<div align="center">
 
-A 5-page Power BI report on orders, deliveries and suppliers for a logistics company, built on a star schema with a Power Query cleaning step.
+<img src="assets/readme-hero.svg" alt="GlobalFlow Logistics dashboard banner" width="100%">
 
-![Overview page](screenshots/01-overview.jpg)
+# GlobalFlow Logistics
+
+**Supply-chain analytics · Power BI · 2022–2024**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Report-F2C811?logo=powerbi&logoColor=black) ![Pages](https://img.shields.io/badge/Pages-5-2563EB) ![DAX](https://img.shields.io/badge/DAX-18%20measures-0F766E) ![Data](https://img.shields.io/badge/Data-Synthetic-64748B)
+
+</div>
+
+---
+
+## Dashboard walkthrough
+
+<table>
+<tr>
+<td width="50%"><img src="screenshots/01-overview.jpg" alt="GlobalFlow executive overview" width="100%"><br><sub><b>01 · Executive overview</b> — revenue, orders, segments, regional mix</sub></td>
+<td width="50%"><img src="screenshots/02-sales.jpg" alt="GlobalFlow sales analysis" width="100%"><br><sub><b>02 · Sales analysis</b> — category profitability and order detail</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="screenshots/03-delivery.jpg" alt="GlobalFlow delivery analysis" width="100%"><br><sub><b>03 · Delivery performance</b> — late rates and delivery duration</sub></td>
+<td width="50%"><img src="screenshots/04-suppliers.jpg" alt="GlobalFlow supplier analysis" width="100%"><br><sub><b>04 · Supplier analysis</b> — quality and on-time performance</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="screenshots/05-supplier-profile-drillthrough.jpg" alt="GlobalFlow supplier drill-through" width="100%"><br><sub><b>05 · Supplier profile</b> — drill-through supplier performance</sub></td>
+<td width="50%"></td>
+</tr>
+</table>
+
+---
 
 ## Scope
 
